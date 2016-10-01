@@ -26,7 +26,7 @@ NOTE: This is not my own list - all I currently want to focus on is Java so I ge
   - [ ] [Backbone](backbonejs.org/)
 - [ ] [D](https://dlang.org/)
 - [ ] [Haskell](https://www.haskell.org/)
-- [ ] [HTML]https://www.w3.org/html/)
+- [ ] [HTML](https://www.w3.org/html/)
 - [ ] [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
 - [ ] [SCSS](http://sass-lang.com/)
 - [x] [Java](http://www.tutorialspoint.com/java/)
