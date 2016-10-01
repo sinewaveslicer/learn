@@ -1,5 +1,5 @@
 # Learn
-This is my list of things that I'd like to learn. Mostly this will relate to software development but may include other stuff. If you feel like this list contains a lot of things you'd like to learn please feel free to fork the repo. If there are things that you think I'd be interesting in learning or there are better links to learn from I urge you to submit a pull request.
+NOTE: This is not my own list - all I currently want to focus on is Java so I get a proper gist of programming (and don't mess up school)
 
 # The List
 
